@@ -1,5 +1,5 @@
 {
-  "latest_version": 13,
+  "latest_version": 11,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
   "whats_new": "• Fixed Bluetooth connectivity\n• Added new UI themes\n• Improved performance on Android 14\n• Bug fixes and stability improvements"
