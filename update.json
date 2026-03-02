@@ -1,5 +1,5 @@
 {
-  "latest_version": 12,
+  "latest_version": 13,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
   "whats_new": "• Added Undo/Redo support in the code editor for a better coding experience.\n• New button added in the Library section to quickly locate files in your File Manager.\n• Fixed a critical crash issue when opening .ino files.\n• Implemented a Code Sanitizer to prevent hidden Unicode characters from causing compilation errors.\n• Removed non-AVR library compilation to ensure compatibility and faster builds.\n• Minor bug fixes and performance improvements."
