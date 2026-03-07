@@ -1,6 +1,6 @@
 {
-  "latest_version": 13,
+  "latest_version": 14,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": true,
-  "whats_new": "• Fixed a rare crash during board detection."
+  "whats_new": "• EEPROM Flashing: Added full support for writing to EEPROM, allowing users to store and manage persistent data directly on their Arduino boards.\n •Undo/Redo Fix: Significantly improved the Undo/Redo engine in the code editor for a more reliable and bug-free experience.\n •Stability (USB Fix): Resolved critical ANR (App Not Responding) issues that occurred during sudden USB cable disconnections."
 }
