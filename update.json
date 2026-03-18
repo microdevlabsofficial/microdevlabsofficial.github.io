@@ -1,6 +1,6 @@
 {
-  "latest_version": 16,
+  "latest_version": 17,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": true,
-  "whats_new": "• Crash Fix: Resolved a major crash."
+  "whats_new": "• Library Examples: Added a new feature to browse and open Library Examples directly from the editor for faster prototyping.\n• Storage Fix (Tree URI): Resolved a critical crash related to Tree URI permissions, ensuring smoother file access on newer Android versions.\n • Stability (Thread Fix): Fixed a recurring crash in ConnectionThread.Run() to provide a more stable background process.\n• Improved Uploading: Fixed ANR (App Not Responding) issues during the upload process for a lag-free experience.\n• Uploading Status: Added a real-time Upload Status indicator so you can track the progress of your sketches."
 }
