@@ -2,5 +2,5 @@
   "latest_version": 18,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": true,
-  "whats_new": "• Extended Compatibility: Added full support for older 32-bit (armeabi-v7a) devices, making the app accessible to more users.\• Compiler Fix: Resolved the critical avr-g++: Syntax error: unexpected error '4Lg' that was preventing successful compilation on certain devices.\n• Major Crash Fixes: Fixed several high-priority crashes to ensure a more stable and reliable experience.\n• 30% Faster Compilation: Enjoy significantly faster compilation times with our new compiler optimizations. "
+  "whats_new": "• Extended Compatibility: Added full support for older 32-bit (armeabi-v7a) devices, making the app accessible to more users.\n• Compiler Fix: Resolved the critical avr-g++: Syntax error: unexpected error '4Lg' that was preventing successful compilation on certain devices.\n• Major Crash Fixes: Fixed several high-priority crashes to ensure a more stable and reliable experience.\n• 30% Faster Compilation: Enjoy significantly faster compilation times with our new compiler optimizations. "
 }
