@@ -4,7 +4,7 @@
   "force_update": true,
   "whats_new": "• New Grey Theme: Added a clean and modern Grey theme for the editor.\n• Compiler Fix: Resolved EEPROM compilation issues.\n• Editor Fixes: Fixed hidden line numbers and fake new line rendering.\n• Visual Polish: Fixed incorrect keyword highlighting inside comments.\n• Performance: Minor stability, UI optimizations and Bug Fix.",
 
-  "show_message": true,
+  "show_message": false,
   "message_id": 3,
   "message_title": "Upcoming Feature",
   "message_text": "ESP8266 board support is coming soon."
