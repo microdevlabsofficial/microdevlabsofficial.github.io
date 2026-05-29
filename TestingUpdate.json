@@ -5,7 +5,7 @@
   "whats_new": "• New Grey Theme: Added a clean and modern Grey theme for the editor.\n• Compiler Fix: Resolved EEPROM compilation issues.\n• Editor Fixes: Fixed hidden line numbers and fake new line rendering.\n• Visual Polish: Fixed incorrect keyword highlighting inside comments.\n• Performance: Minor stability, UI optimizations and Bug Fix."
 
   "show_message": true,
-  "message_id": 1,
+  "message_id": 2,
   "message_title": "Upcoming Feature",
   "message_text": "ESP32-S3 board support is coming soon in the next update."
 }
