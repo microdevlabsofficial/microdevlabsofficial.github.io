@@ -4,7 +4,7 @@
   "force_update": false,
   "whats_new": "• Stability: Performance improve.",
 
-  "show_message": false,
+  "show_message": true,
   "message_id": 2,
   "message_title": "Upcoming Feature",
   "message_text": "ESP8266 board support is coming soon."
