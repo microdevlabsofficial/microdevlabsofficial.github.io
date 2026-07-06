@@ -1,11 +1,11 @@
 {
-  "latest_version": 2,
+  "latest_version": 1,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoserialmonitor",
   "force_update": false,
   "whats_new": "• Stability: Performance improve.",
 
   "show_message": true,
-  "message_id": 2,
+  "message_id": 1,
   "message_title": "Greeting",
   "message_text": "Welcome to our new app."
 }
