@@ -4,7 +4,7 @@
   "force_update": false,
   "whats_new": "• Stability: Performance improve.",
 
-  "show_message": false,
+  "show_message": true,
   "message_id": 1,
   "message_title": "Greeting",
   "message_text": "Welcome to our new app."
