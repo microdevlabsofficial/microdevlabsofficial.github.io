@@ -1,8 +1,8 @@
 {
-  "latest_version": 27,
+  "latest_version": 28,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
-  "whats_new": "• Stability: Performance improve.",
+  "whats_new": "• ESP8266 compilation support added.\n• Bug fixes",
 
   "show_message": false,
   "message_id": 3,
