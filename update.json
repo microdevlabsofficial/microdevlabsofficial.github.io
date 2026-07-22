@@ -4,7 +4,7 @@
   "force_update": false,
   "whats_new": "• Stability: Performance improve.",
 
-  "show_message": true,
+  "show_message": false,
   "message_id": 3,
   "message_title": "Review and Feedback",
   "message_text": "Please rate us on Play Store."
