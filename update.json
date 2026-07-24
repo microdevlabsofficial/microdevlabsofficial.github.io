@@ -2,7 +2,7 @@
   "latest_version": 28,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
-  "whats_new": "• ESP8266 compilation support added.\n• Bug fixes",
+  "whats_new": "• Fixed ESP8266 library compilation issues.\n• Fixed Arduino sketch upload failures for improved reliability.\n• Improved library resolver for better dependency handling.\n• Fixed various bugs and enhanced overall app stability.",
 
   "show_message": false,
   "message_id": 3,
