@@ -1,1 +1,11 @@
+{
+  "latest_version": 4,
+  "update_url": "https://play.google.com/store/apps/details?id=com.microdev.oneconnect",
+  "force_update": false,
+  "whats_new": "• Testing",
 
+  "show_message": false,
+  "message_id": 3,
+  "message_title": "Review and Feedback",
+  "message_text": "Please rate us on Play Store."
+}
