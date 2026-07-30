@@ -1,7 +1,7 @@
 {
-  "latest_version": 3,
+  "latest_version": 4,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoserialmonitor",
-  "force_update": true,
+  "force_update": false,
   "whats_new": "• Major UI update for the Serial Monitor.\n• New modern and cleaner interface.\n• Improved navigation and user experience.\n• Performance optimizations and bug fixes.",
 
   "show_message": true,
