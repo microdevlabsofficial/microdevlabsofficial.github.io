@@ -1,5 +1,5 @@
 {
-  "latest_version": 4,
+  "latest_version": 5,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoserialmonitor",
   "force_update": false,
   "whats_new": "• Added Live Serial Plotter\n• Beautiful real-time graphs powered by Vico Charts\n• Automatic graph scrolling\n• Live sample counter and current value display\n• Live connection status (Live / Offline)\n• Smoother real-time plotting\n• Improved USB data parsing\n• Correct handling of fragmented USB packets\n• Automatic extraction of numeric values from mixed serial data\n• Bug fix ",
