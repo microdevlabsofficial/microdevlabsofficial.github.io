@@ -4,7 +4,7 @@
   "force_update": false,
   "whats_new": "• Fixed ESP8266 library compilation issues.\n• Fixed Arduino sketch upload failures for improved reliability.\n• Improved library resolver for better dependency handling.\n• Fixed various bugs and enhanced overall app stability.",
 
-  "show_message": true,
+  "show_message": false,
   "message_id": 4,
   "message_title": "Upcoming feature",
   "message_text": "• ESP32 Support is coming soon.\n• If you like this app, please write a feedback on Google Play Store."
