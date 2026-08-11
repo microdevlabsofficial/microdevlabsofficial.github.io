@@ -1,8 +1,8 @@
 {
-  "latest_version": 29,
+  "latest_version": 30,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
-  "whats_new": "• Fixed ESP8266 library compilation issues.\n• Fixed Arduino sketch upload failures for improved reliability.\n• Improved library resolver for better dependency handling.\n• Fixed various bugs and enhanced overall app stability.",
+  "whats_new": "• Crash Fixes – Resolved issues that could cause unexpected app crashes.\n• ANR Fixes – Improved app responsiveness and resolved cases of the app becoming unresponsive.\n• Code Saving Fix – Fixed an issue where the app could get stuck while saving code.\n• Updated Compiler – Compiler upgraded to v7.3.0 for improved compatibility and reliability.\n• Performance Improvements – Enhanced overall app performance and responsiveness.\n• Bug Fixes – Fixed various minor issues for a smoother and more stable experience.",
 
   "show_message": false,
   "message_id": 4,
