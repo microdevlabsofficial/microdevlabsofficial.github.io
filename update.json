@@ -1,8 +1,8 @@
 {
-  "latest_version": 30,
+  "latest_version": 31,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
-  "whats_new": "• Crash Fixes – Resolved issues that could cause unexpected app crashes.\n• ANR Fixes – Improved app responsiveness and resolved cases of the app becoming unresponsive.\n• Code Saving Fix – Fixed an issue where the app could get stuck while saving code.\n• Updated Compiler – Compiler upgraded to v7.3.0 for improved compatibility and reliability.\n• Performance Improvements – Enhanced overall app performance and responsiveness.\n• Bug Fixes – Fixed various minor issues for a smoother and more stable experience.",
+  "whats_new": "• Performance improved.\n• Bug fix.",
 
   "show_message": false,
   "message_id": 4,
