@@ -4,7 +4,7 @@
   "force_update": false,
   "whats_new": "• ESP32 Board Support — Compilation & Uploading\n• ESP8266 Uploading Failed Issue — Fixed\n• ESP Board Configuration — Change options added\n• Performance — Improved\n• Bug Fixes — Various issues fixed",
 
-  "show_message": true,
+  "show_message": false,
   "message_id": 5,
   "message_title": "Upcoming feature",
   "message_text": "• ESP32 users, this one's for you!"
