@@ -4,8 +4,8 @@
   "force_update": false,
   "whats_new": "• SDK reinstaller button has been added in the settings.\n• Crash fix after selecting ESP board.\n• ESP config not retrieving saved value fix.\n• Performance improved.\n• Bug Fix.",
 
-  "show_message": false,
-  "message_id": 5,
-  "message_title": "Upcoming feature",
-  "message_text": "• ESP32 users, this one's for you!"
+  "show_message": true,
+  "message_id": 6,
+  "message_title": "New feature",
+  "message_text": "• This app now supports ESP32 & ESP8266."
 }
