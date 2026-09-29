@@ -1,5 +1,5 @@
 {
-  "latest_version": 7,
+  "latest_version": 8,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoserialmonitor",
   "force_update": true,
   "whats_new": "• Input Text Display Issue Fixed — Resolved an issue where input text was not appearing correctly. \n• Command Saving — Added support for automatically saving previously used commands. \n• Command Suggestions — Quickly find and reuse previously saved commands with command suggestions. \n• Favorite Commands — Added a dedicated Favorite Commands section for quick access to frequently used commands. \n• Bug Fixes & Improvements — Fixed minor bugs and improved overall app stability and performance.",
