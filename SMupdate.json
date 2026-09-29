@@ -4,7 +4,7 @@
   "force_update": true,
   "whats_new": "• Input Text Display Issue Fixed — Resolved an issue where input text was not appearing correctly. \n• Command Saving — Added support for automatically saving previously used commands. \n• Command Suggestions — Quickly find and reuse previously saved commands with command suggestions. \n• Favorite Commands — Added a dedicated Favorite Commands section for quick access to frequently used commands. \n• Bug Fixes & Improvements — Fixed minor bugs and improved overall app stability and performance.",
 
-  "show_message": true,
+  "show_message": false,
   "message_id": 1,
   "message_title": "Greeting",
   "message_text": "Welcome to our new app."
