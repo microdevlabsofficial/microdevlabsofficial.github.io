@@ -1,5 +1,5 @@
 {
-  "latest_version": 34,
+  "latest_version": 52,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
   "whats_new": "• Enhanced library resolver for smarter and more reliable library detection.\n• Expanded library support for a wider range of Arduino projects.\n• Subscription feature added.\n• Fixed duplicate library compilation issues.\n• Fixed an issue preventing the Serial Monitor from opening.\n• Resolved crashes during USB connections.\n• Fixed code editor crashes for a smoother coding experience.",
