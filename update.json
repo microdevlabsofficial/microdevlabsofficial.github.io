@@ -2,7 +2,7 @@
   "latest_version": 34,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
-  "whats_new": "• SDK reinstaller button has been added in the settings.\n• Crash fix after selecting ESP board.\n• ESP config not retrieving saved value fix.\n• Performance improved.\n• Bug Fix.",
+  "whats_new": "• Enhanced library resolver for smarter and more reliable library detection.\n• Expanded library support for a wider range of Arduino projects.\n• Subscription feature added.\n• Fixed duplicate library compilation issues.\n• Fixed an issue preventing the Serial Monitor from opening.\n• Resolved crashes during USB connections.\n• Fixed code editor crashes for a smoother coding experience.",
 
   "show_message": false,
   "message_id": 6,
