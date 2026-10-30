@@ -1,5 +1,5 @@
 {
-  "latest_version": 9,
+  "latest_version": 10,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoserialmonitor",
   "force_update": true,
   "whats_new": "• Advanced Packet Analyzer with HEX and ASCII views and flexible packet framing.\n• Serial Data Logger with timestamped recording and TXT, CSV, and JSON export options.\n• Smart Serial Monitor Layout with an improved interface for portrait and landscape orientations.\n• Performance improvements and minor bug fixes.",
