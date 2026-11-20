@@ -1,5 +1,5 @@
 {
-  "latest_version": 52,
+  "latest_version": 65,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
   "whats_new": "• ESP8266 Toolchain upgraded to v10.3.0 for improved compilation support.﻿\n• Added support for Arduino Leonardo, Yun, and Esplora boards.﻿\n• Added the ability to save code with custom file names.\n• Expanded library compatibility with support for more Arduino libraries.\n• Improved USB connectivity for a more stable connection with Arduino boards.﻿\n• Fixed crashes occurring when connecting Arduino boards.﻿\n• Resolved various bugs and stability issues.\n• Improved overall app performance.",
