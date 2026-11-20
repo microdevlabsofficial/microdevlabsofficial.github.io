@@ -4,8 +4,8 @@
   "force_update": false,
   "whats_new": "• ESP8266 Toolchain upgraded to v10.3.0 for improved compilation support.﻿\n• Added support for Arduino Leonardo, Yun, and Esplora boards.﻿\n• Added the ability to save code with custom file names.\n• Expanded library compatibility with support for more Arduino libraries.\n• Improved USB connectivity for a more stable connection with Arduino boards.﻿\n• Fixed crashes occurring when connecting Arduino boards.﻿\n• Resolved various bugs and stability issues.\n• Improved overall app performance.",
 
-  "show_message": false,
-  "message_id": 6,
-  "message_title": "New feature",
-  "message_text": "• This app now supports ESP32 & ESP8266."
+  "show_message": true,
+  "message_id": 7,
+  "message_title": "Important Notice - ESP8266 Compilation Issue",
+  "message_text": "If you experience compilation errors with ESP8266 boards after updating the app, please follow these steps to resolve the issue:\n\n1. Open Settings in the app.\n2. Scroll down to the bottom.\n3. Tap Reinstall SDK.\n\nOnce the SDK reinstallation is complete, try compiling your code again.\nWe apologize for the inconvenience and appreciate your understanding."
 }
