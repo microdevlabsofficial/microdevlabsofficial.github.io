@@ -2,7 +2,7 @@
   "latest_version": 52,
   "update_url": "https://play.google.com/store/apps/details?id=com.microdev.arduinoprox",
   "force_update": false,
-  "whats_new": "• Enhanced library resolver for smarter and more reliable library detection.\n• Expanded library support for a wider range of Arduino projects.\n• Subscription feature added.\n• Fixed duplicate library compilation issues.\n• Fixed an issue preventing the Serial Monitor from opening.\n• Resolved crashes during USB connections.\n• Fixed code editor crashes for a smoother coding experience.",
+  "whats_new": "• ESP8266 Toolchain upgraded to v10.3.0 for improved compilation support.﻿\n• Added support for Arduino Leonardo, Yun, and Esplora boards.﻿\n• Added the ability to save code with custom file names.\n• Expanded library compatibility with support for more Arduino libraries.\n• Improved USB connectivity for a more stable connection with Arduino boards.﻿\n• Fixed crashes occurring when connecting Arduino boards.﻿\n• Resolved various bugs and stability issues.\n• Improved overall app performance.",
 
   "show_message": false,
   "message_id": 6,
